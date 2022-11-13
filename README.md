@@ -1,4 +1,4 @@
-# Week 3 Challange
+# Week 3 Challenge
 
 ## Password Generator
 
