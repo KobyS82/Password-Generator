@@ -20,7 +20,7 @@ This code that can be viewed at https://github.com/KobyS82/Week-3-challange/
 
 This is a live page that can be viewed at https://kobys82.github.io/Week-3-challange/
 
-![screenshot of content](Assets/challenge-3-display-img.JPG "This is a screenshot of the content") 
+![screenshot of content](Assets/Images/challenge-3-display-img.JPG "This is a screenshot of the content") 
 
 
 ## Credits
