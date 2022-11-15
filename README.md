@@ -13,12 +13,12 @@ This page will serve as a tool to help create a password for a user that can hav
 
 ## Installation
 
-This code that can be viewed at https://github.com/KobyS82/Week-3-challange/
+This code that can be viewed at https://github.com/KobyS82/Password-Generator
 
 
 ## Usage
 
-This is a live page that can be viewed at https://kobys82.github.io/Week-3-challange/
+This is a live page that can be viewed at https://kobys82.github.io/Password-Generator/
 
 ![screenshot of content](Assets/Images/challenge-3-display-img.JPG "This is a screenshot of the content") 
 
